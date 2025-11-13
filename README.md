@@ -21,7 +21,7 @@ To highlight the need for inclusive research and design in aerospace medicine, e
 - `README.md` — This file  
 
 ### ✍️ Authors
-Abigail Rosehart and Jannat Sethi 
+Abigail Rosehart and Jannat Sethi,
 Women in Aerospace Medicine (WiAM) – McMaster University 
 
 ### 📅 Presented
